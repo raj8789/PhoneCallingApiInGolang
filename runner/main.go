@@ -34,8 +34,6 @@ func main() {
 	}
 }
 
-//Pushplatadevi12#
 
-//https://console.twilio.com/?frameUrl=%2Fconsole%3Fx-target-region%3Dus1
 
-//https://github.com/twilio/twilio-go
+
